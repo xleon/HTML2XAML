@@ -111,9 +111,6 @@
     <Compile Include="XAMLHtml.cs" />
     <EmbeddedResource Include="Properties\XAMLHtml.rd.xml" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="readme.md" />
-  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
